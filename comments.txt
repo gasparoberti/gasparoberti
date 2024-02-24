@@ -1,0 +1,2 @@
+useState: is a React Hook that lets you add a state variable to your component.
+useEffecet:  is a React Hook that allows you to synchronize a component with an external system.
