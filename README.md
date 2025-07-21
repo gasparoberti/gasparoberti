@@ -9,7 +9,7 @@
 - 🎓 Soy Ingeniero en Informática graduado de la Universidad Nacional del Litoral.
 - 💻 Tengo experiencia en .NET Framework, ASP.NET Core, C#, JavaScript, Vue.js, React Native, Expo, SQL Server y otras tecnologías relacionadas.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y metodologías para mejorar mis habilidades y mantenerme al día con las tendencias de la industria.
-- 📫 Puedes contactarme por correo electrónico en gasparoberti@outlook.com.
+- 📫 Puedes contactarme por correo electrónico en geoberti@outlook.com.
 
 ## Experiencia Profesional
 
